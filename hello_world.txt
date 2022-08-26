@@ -1,2 +1,4 @@
 Just some text.
 Please, hire me.
+
+Another text. This is for testing commits with VSC.
